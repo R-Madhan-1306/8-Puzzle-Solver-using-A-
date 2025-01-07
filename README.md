@@ -37,7 +37,6 @@ Given an initial state of an 8-puzzle problem and a final state to be reached, t
     ```
 2. **Navigate to the Project Directory**: Open the directory containing the project files.
 3. **Run the Code**: Follow the instructions provided in the code files to run the algorithm and solve the puzzle.
-   
 
 ## Contact
 
